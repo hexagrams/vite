@@ -17,7 +17,7 @@ git add -A
 git commit -m 'deploy'
 
 # 如果你要部署在 https://<USERNAME>.github.io
-git push -f git@github.com:lin-data-center/vite.git main
+git push -f git@github.com:lin-data-center/vite.git master:gh-pages
 
 # 如果你要部署在 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:<USERNAME>/<REPO>.git master:gh-pages
