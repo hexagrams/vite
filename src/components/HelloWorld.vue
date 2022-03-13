@@ -26,7 +26,7 @@ const count = ref(0);
 
     <button type="button" @click="count++">count is: {{ count }}</button>
     <p>
-      Edit2112
+      Edit2112dsadsahahahah
       <code>components/HelloWorld.vue</code> to test hot module replacement.
     </p>
   </div>
